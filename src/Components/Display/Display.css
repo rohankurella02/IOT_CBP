@@ -1,0 +1,24 @@
+.display {
+    margin: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box {
+    background-color: #153F66;
+    width: 450px;
+    height: 250px;
+    border-radius: 30px;
+    margin: 16px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.boxTitle {
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}

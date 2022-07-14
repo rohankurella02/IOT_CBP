@@ -1,0 +1,17 @@
+.home {
+    background-color: #021E3B;
+    width: 75%;
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+}
+
+.userDetails {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 6px 25px;
+    font-weight: 700;
+    font-size: 18px;
+    gap: 25px;
+    height: fit-content;
+}
